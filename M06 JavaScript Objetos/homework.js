@@ -171,6 +171,7 @@ function agregarMetodoCalculoDescuento(objetoProducto) {
    }
 
    return objetoProducto;
+   //The only way to past the test is to return the whole object
 
 }
 
